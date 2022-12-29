@@ -772,6 +772,7 @@ background-color: rgba(0,0,0,0.5);
     }
     .contact-section .contact-form .form{
     	padding: 55px 5px;
+	    border-radius:25px;
     }
 }
 .btn-02{
